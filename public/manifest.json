@@ -1,0 +1,16 @@
+{
+  "short_name": "Compare Text",
+  "name": "Compare Text",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "type": "image/png",
+      "sizes": "1024x1024"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "display_override": ["tabbed"],
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
